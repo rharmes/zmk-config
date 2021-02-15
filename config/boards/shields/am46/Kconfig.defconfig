@@ -1,7 +1,7 @@
 # Copyright (c) 2021 Ross Harmes
 # SPDX-License-Identifier: MIT
 
-if SHIELD_AM$^
+if SHIELD_AM46
 
 config ZMK_KEYBOARD_NAME
     default "AM46"
