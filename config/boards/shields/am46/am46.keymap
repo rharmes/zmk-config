@@ -167,7 +167,7 @@
 &trans      &trans      &trans      &trans      &trans                                 &trans       &trans      &trans      &trans      &trans
 &trans      &trans      &trans      &trans      &trans                                 &trans       &trans      &trans      &trans      &trans
 &kp A       &kp S       &kp D       &kp F       &trans                                 &trans       &trans      &trans      &trans      &trans
-&nrans      &trans      &trans      &kp V       &trans                                 &trans       &trans      &trans      &trans      &trans
+&trans      &trans      &trans      &kp V       &trans                                 &trans       &trans      &trans      &trans      &trans
 				    &trans      &kp SPACE      &trans      &trans      &trans       &trans
 			>;
 		};
