@@ -9,7 +9,8 @@
 #include <dt-bindings/zmk/bt.h>
 
 // TODO: Define aliases for longer key-combinations
-
+// TODO: Figure out the capslock combo.
+/*
 / {
 	combos {
 		compatible = "zmk,combos";
@@ -21,6 +22,7 @@
 		};
 	};
 };
+*/
 
 / {
 	keymap {
