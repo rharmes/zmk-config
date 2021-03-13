@@ -94,7 +94,7 @@
 			bindings = <
 &kp C_BRI_DN &kp C_BRI_UP &kp C_PREV   &kp C_PP     &kp C_NEXT                             &none        &none       &none       &none       &none
 &kp GRAVE    &kp HOME     &kp PG_UP    &kp END      &kp LBKT                               &none        &none       &none       &none       &none
-&mt C_VOL_UP &none        &kp PG_DN    &none        &kp MINUS                              &none        &trans      &kp RSHFT   &kp RALT    &kp RCTRL
+&kp C_VOL_UP &none        &kp PG_DN    &none        &kp MINUS                              &none        &trans      &kp RSHFT   &kp RALT    &kp RCTRL
 &kp C_VOL_DN &none        &kp LG(LBKT) &kp LG(RBKT) &none                                  &none        &none       &none       &none       &none
 			               &trans       &trans         &trans      &trans      &trans       &trans
 			>;
